@@ -18,7 +18,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
+1. N U M B E R E D
 2. List
 
 **Bold** and _Italic_ and `Code` text
