@@ -1,3 +1,7 @@
+# Ian Clausen's First CS 193 Homework
+
+ - I still don't know how to get to the optional online section
+ - I definatly didn't forget that this class existed monday
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
